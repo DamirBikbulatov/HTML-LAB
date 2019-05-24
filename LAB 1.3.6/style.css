@@ -1,0 +1,38 @@
+.block {
+  padding: 3px;
+  background-color:rgb(224, 230, 230);
+}
+.block1 {
+  padding: 15px;
+  margin-top: 5px;
+  background-color: darkturquoise;
+}
+.block2 {
+  display: inline-block;
+  padding: 15px;
+  margin-right: 20px;
+  font-family: sans-serif;
+  background-color: rgb(149, 1, 212);
+  color: white;
+}
+.block3 {
+  width: 400px;
+  display: inline-block;
+  padding: 20px;
+  margin-top: 40px;
+  background-color: rgb(253, 226, 192);
+}
+.button1 {
+  width: 45%;
+  color: white;
+  float: left;
+  background-color: rgb(222, 184, 135);
+  border: solid 1px rgb(165, 44, 44);
+  margin-right: 5%;
+  padding: 10px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.block4 {
+  clear: both;
+}
