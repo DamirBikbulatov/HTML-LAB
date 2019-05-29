@@ -26,3 +26,47 @@ font-style: italic;
 font-weight: normal;
 text-align: center;
 }
+.subheadersa {width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 450px 0 0 280px;
+letter-spacing: 2px;
+font-style: italic;
+font-weight: normal;
+text-align: center;
+}
+.subheaderaf {width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 400px 0 0 530px;
+letter-spacing: 2px;
+font-style: italic;
+font-weight: normal;
+text-align: center;
+}
+.subheadereu {width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -270px 0 0 100px;
+letter-spacing: 2px;
+font-style: italic;
+font-weight: normal;
+text-align: center;
+}
+.subheaderau {width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0px 0 0 230px;
+letter-spacing: 2px;
+font-style: italic;
+font-weight: normal;
+text-align: center;
+}
