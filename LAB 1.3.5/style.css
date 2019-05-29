@@ -1,4 +1,6 @@
 .body {background-image: url(./world-map.png);
-margin-top: -100%;
-
+    background-size: cover;
+    position: absolute ;
+    left: 0;
+    top: 0;
 }
