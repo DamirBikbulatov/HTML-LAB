@@ -1,0 +1,6 @@
+.body {background-image: url(./world-map.png);
+    background-size: cover;
+    position: absolute ;
+    left: 0;
+    top: 0;
+}
